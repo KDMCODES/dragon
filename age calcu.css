@@ -1,0 +1,45 @@
+body{
+    background-image: url(Abstract\ Human\ Tech\ Ai\ Company\ Free\ Logo.png);
+
+}
+a{
+    color: gold;
+}
+.logo{
+    background-color: black;
+    height: 200px;
+    width: auto;
+}
+.button{
+background-color: red;
+color: whitesmoke;
+size: 50%;
+border: solid white;
+}
+
+
+.btn{
+    background-color: blue;
+    color: white;
+    border: solid white;
+    }
+    container-1{
+        flex: auto;
+    }
+    .container-1 {
+     border: 1px solid black ;
+     display: flex;
+     justify-content: center;
+    }
+    .box {
+        border: 1px solid black ;
+        display: flex;
+        padding: 20px;
+        justify-content: space-around;
+       }
+    .box div {
+        display: flex;
+        padding: 10px;
+        border: solid black;
+        align-items: center;
+    }

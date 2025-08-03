@@ -1,0 +1,39 @@
+body{
+    background-color: goldenrod;
+}
+a{
+    color: gold;
+}
+.logo{
+    background-color: black;
+    height: 200px;
+    width: auto;
+}
+.weather-container {
+    text-align: center;
+    box-shadow: 0 0 10px  black;
+    padding: 20px;
+    background: goldenrod;
+    border-radius: 8px;
+    
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

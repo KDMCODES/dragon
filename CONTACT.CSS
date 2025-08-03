@@ -1,0 +1,11 @@
+body{
+    background-color: goldenrod;
+}
+a{
+    color: gold;
+}
+.logo{
+    background-color: black;
+    height: 200px;
+    width: auto;
+}

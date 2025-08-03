@@ -1,0 +1,18 @@
+body{
+    background-color: goldenrod;
+}
+a{
+    color: gold;
+}
+.logo{
+    background-color:black ;
+    height: 190px;
+    width: auto;
+}
+nav{
+    justify-content:space-around ;
+}
+a{
+    text-decoration: none;
+    justify-content: space-evenly;
+}
